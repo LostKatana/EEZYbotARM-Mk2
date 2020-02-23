@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Search.png" search="pcb">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="SparkFun-Connectors-IPOD_CONNECTOR_MALE-" modelIndex="85415918" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-ipod_connector_male-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Copper1BlockerModuleID" modelIndex="85415919" path=":/resources/parts/core/blocker.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-OLD-T" modelIndex="85415920" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-old-t.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-RJ45-8-PTH_fix" modelIndex="85415922" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-rj45-8-pth-fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-OLD-NO" modelIndex="85415924" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-old-no.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-2.5MM" modelIndex="85415925" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-audio-jack-2.5mm.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="telegaertner_bnc_socket_50r" modelIndex="85415927" path="D:/fritzing_0.9.4.64/fritzing-parts/core/telegaertner_bnc_socket_50r.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EllipsePCBModuleID" modelIndex="85415929" path=":/resources/parts/core/ellipse_pcb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="EasyDriver_v44" modelIndex="85415931" path="D:/fritzing_0.9.4.64/fritzing-parts/core/EasyDriver_v44.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Tricolor-LED v16" modelIndex="85415932" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Tricolor-LED v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper1LogoImageModuleID" modelIndex="85415935" path=":/resources/parts/core/copper1logoimage.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-RJ45-8-PTH_fix_bottom" modelIndex="85415936" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-rj45-8-pth-fix2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="85415938" path="D:/fritzing_0.9.4.64/fritzing-parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-lightblue-bean-shield" modelIndex="85415939" path="D:/fritzing_0.9.4.64/fritzing-parts/core/lightblue-bean-shield_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Lilypad_PowerSupply-v18" modelIndex="85415941" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Lilypad_PowerSupply-v18.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266_module_antenna" modelIndex="85415942" path="D:/fritzing_0.9.4.64/fritzing-parts/core/ESP8266_module.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun Load Sensor Combinator" modelIndex="85415943" path="D:/fritzing_0.9.4.64/fritzing-parts/core/SparkFun Load Sensor Combinator.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-SMD2" modelIndex="85415944" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-audio-jack-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_PCB_mounting_holes" modelIndex="85415945" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Dagu DGServo 9g PCB mounting holes.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper0LogoImageModuleID" modelIndex="85415948" path=":/resources/parts/core/copper0logoimage.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-OLD-PASTE2_3" modelIndex="85415949" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-old-paste2_3.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-VENUS638FLPX-L-" modelIndex="85415950" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-rf-venus638flpx-l-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-POWER_JACK-SLT" modelIndex="85415951" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-power_jack-slt.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-NC" modelIndex="85415952" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-nc.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-POWER_JACK-PTH" modelIndex="85415954" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-power_jack-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screwshield-v15" modelIndex="85415955" path="D:/fritzing_0.9.4.64/fritzing-parts/core/screwshield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-OLD-PASTE1_2" modelIndex="85415956" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-old-paste1_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--A-SMD" modelIndex="85415958" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--a-smd.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-PTH" modelIndex="85415960" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-audio-jack-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--A-H" modelIndex="85415962" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--a-h.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Copper0BlockerModuleID" modelIndex="85415964" path=":/resources/parts/core/blocker0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RectanglePCBModuleID" modelIndex="85415966" path=":/resources/parts/core/rectangle_pcb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-OFFSET_PADS" modelIndex="85415967" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-offset_pads.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Gas_Sensor_Breakout-v12" modelIndex="85415969" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Gas_Sensor_Breakout-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-F25-V" modelIndex="85415970" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-f25-v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Silkscreen0LogoTextModuleID" modelIndex="85415972" path=":/resources/parts/core/silkscreen0logotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_header_connector_female" modelIndex="85415973" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Dagu DGServo 9g header connector (female).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-SMD" modelIndex="85415974" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-audio-jack-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-OLD-NC" modelIndex="85415976" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-old-nc.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RoundRectPCBModuleID" modelIndex="85415978" path=":/resources/parts/core/roundrect_pcb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-TEST-POINT-3" modelIndex="85415980" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-test-point-3.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun_Soil_Moisture_Sensor" modelIndex="85415982" path="D:/fritzing_0.9.4.64/fritzing-parts/core/SparkFun_Soil_Moisture_Sensor.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ESP8266_7" modelIndex="85415983" path="D:/fritzing_0.9.4.64/fritzing-parts/core/ESP8266_7.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-PCB" modelIndex="85415984" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb-pcb.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FT230XQ_df1159ec8af0eb336d7fbe6068d3aed4_2" modelIndex="85415986" path="D:/fritzing_0.9.4.64/fritzing-parts/core/FT230XQ_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-NC2" modelIndex="85415987" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-nc2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newSilkscreen0LogoImageModuleID" modelIndex="85415991" path=":/resources/parts/core/silkscreen0logoimage.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="trimmer_3_2_v_holeVariableCapacitorModuleID" modelIndex="85415992" path="D:/fritzing_0.9.4.64/fritzing-parts/core/trimmer_3_2_v_hole.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Mega_Rev3_PCB" modelIndex="85415994" path="D:/fritzing_0.9.4.64/fritzing-parts/core/arduino-mega-rev3-shield_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-OLD-W" modelIndex="85415996" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-old-w.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="OneLayerBoardLogoImageModuleID" modelIndex="85415998" path=":/resources/parts/core/boardlogoimage_one_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PadModuleID" modelIndex="85416000" path=":/resources/parts/core/pad.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad_LED-v14" modelIndex="85416001" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LilyPad_LED-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HoleModuleID" modelIndex="85416002" path=":/resources/parts/core/hole.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-F25-VB" modelIndex="85416003" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-f25-vb.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TwoLayerRoundRectPCBModuleID" modelIndex="85416004" path=":/resources/parts/core/roundrect_pcb_two_layers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Accelerometer-v17" modelIndex="85416006" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LilyPad-Accelerometer-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-XBee-v15" modelIndex="85416007" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LilyPad-XBee-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_3_1_vVariableCapacitorModuleID" modelIndex="85416008" path="D:/fritzing_0.9.4.64/fritzing-parts/core/trimmer_3_1_v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-ATX24-RH" modelIndex="85416009" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-atx24-rh.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Raspberry_Pi_Zero_rev1.1" modelIndex="85416010" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Raspberry_Pi_Zero_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TwoLayerRectanglePCBModuleID" modelIndex="85416011" path=":/resources/parts/core/rectangle_pcb_two_layers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AMPHENOL-ACJS-MHDR" modelIndex="85416013" path="D:/fritzing_0.9.4.64/fritzing-parts/core/AMPHENOL-ACJS-MHDR.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-W" modelIndex="85416014" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-w.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BoardLogoImageModuleID" modelIndex="85416016" path=":/resources/parts/core/boardlogoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-POWER_JACK-SMD" modelIndex="85416018" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-power_jack-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-slide-switch13" modelIndex="85416019" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LilyPad-slide-switch13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Joystick_Shield-v14" modelIndex="85416020" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Joystick_Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-PTH" modelIndex="85416021" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--MB-H" modelIndex="85416023" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--mb-h.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="P1000K_standup" modelIndex="85416025" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Rectifier Diode 10A_standup_on_PCB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberrypi-b+-pcb-shape" modelIndex="85416026" path="D:/fritzing_0.9.4.64/fritzing-parts/core/raspberrypi-b+-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Buzzer-v15" modelIndex="85416028" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Buzzer-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RioRand_LM2596_94ce9810d0922bc731e2f315085d46ab_1" modelIndex="85416029" path="D:/fritzing_0.9.4.64/fritzing-parts/core/RioRand_LM2596_94ce9810d0922bc731e2f315085d46ab_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_End_view" modelIndex="85416030" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Dagu DGServo 9g (End view).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="router_1" modelIndex="85416031" path="D:/fritzing_0.9.4.64/fritzing-parts/core/router_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerCell-v13" modelIndex="85416032" path="D:/fritzing_0.9.4.64/fritzing-parts/core/PowerCell Lipo Charger Booster v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Temp-v12" modelIndex="85416033" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LilyPad-Temp-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-intel-galileo-pcb" modelIndex="85416034" path="D:/fritzing_0.9.4.64/fritzing-parts/core/arduino-intel-galileo-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--JST-2MM-SMT" modelIndex="85416036" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--jst-2mm-smt.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Copper1LogoTextModuleID" modelIndex="85416038" path=":/resources/parts/core/copper1logotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-TRACE" modelIndex="85416039" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-trace.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_3_3_pVariableCapacitorModuleID" modelIndex="85416041" path="D:/fritzing_0.9.4.64/fritzing-parts/core/trimmer_3_3_p.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-GND_CONNECT-" modelIndex="85416043" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-gnd_connect-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-_" modelIndex="85416044" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb-_.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_2_2_holeVariableCapacitorModuleID" modelIndex="85416046" path="D:/fritzing_0.9.4.64/fritzing-parts/core/trimmer_2_2_hole.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="IR_Receiver_v14" modelIndex="85416048" path="D:/fritzing_0.9.4.64/fritzing-parts/core/IR_Receiver_v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Copper0PadModuleID" modelIndex="85416049" path=":/resources/parts/core/pad0.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Prolight RGB 3 Watt Star" modelIndex="85416051" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LED_Prolight_RGB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Copper0LogoTextModuleID" modelIndex="85416052" path=":/resources/parts/core/copper0logotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sparkcore-pcb-shape" modelIndex="85416053" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkcore-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_header_male" modelIndex="85416055" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Dagu DGServo 9g header (male).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="c624c0ff7a2eb1ca7994123ee87f58fb" modelIndex="85416056" path="D:/fritzing_0.9.4.64/fritzing-parts/core/BASIC_Stamp_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-OLD-S" modelIndex="85416057" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-old-s.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-SPEAKER-" modelIndex="85416059" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-electromechanical-speaker-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-128" modelIndex="85416060" path="D:/fritzing_0.9.4.64/fritzing-parts/core/jlpcb-128.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-TEST-POINT-2" modelIndex="85416061" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-test-point-2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="144096d13637627703324c683e3211ec_40" modelIndex="85416063" path="D:/fritzing_0.9.4.64/fritzing-parts/core/OMRON_G5LE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-OLD" modelIndex="85416064" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb-old.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-NS" modelIndex="85416066" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-ns.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TwoLayerEllipsePCBModuleID" modelIndex="85416068" path=":/resources/parts/core/ellipse_pcb_two_layers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-OLD-TRACE" modelIndex="85416070" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-old-trace.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-PASTE2_3" modelIndex="85416072" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-paste2_3.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-GS406SMD-SOCKET" modelIndex="85416073" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-rf-gs406smd-socket.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--A-S" modelIndex="85416075" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--a-s.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="smd-YC164_pcb" modelIndex="85416077" path="D:/fritzing_0.9.4.64/fritzing-parts/core/smd-YC164.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="one_layer_Arduino_Mega_R3_PCB" modelIndex="85416079" path="D:/fritzing_0.9.4.64/fritzing-parts/core/arduino-mega-r3-shield_one_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-ZUNE_CONNECTOR_MALE-" modelIndex="85416081" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-zune_connector_male-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newSilkscreen0LogoImageModuleID" modelIndex="85416082" path=":/resources/parts/core/newsilkscreen0logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-POWER_JACK-COMBO" modelIndex="85416083" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-power_jack-combo.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerSupply-Lipo-v15" modelIndex="85416084" path="D:/fritzing_0.9.4.64/fritzing-parts/core/PowerSupply-Lipo-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-PASTE1_2" modelIndex="85416085" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-paste1_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper1LogoImageModuleID" modelIndex="85416087" path=":/resources/parts/core/newcopper1logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="85416088" path="D:/fritzing_0.9.4.64/fritzing-parts/core/huzzah_esp8266.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--MICROB" modelIndex="85416089" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--microb.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-T" modelIndex="85416090" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-t.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-NO" modelIndex="85416092" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-no.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newLogoImageModuleID" modelIndex="85416093" path=":/resources/parts/core/logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-PTH-VERTICAL" modelIndex="85416095" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb-pth-vertical.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newLogoImageModuleID" modelIndex="85416097" path=":/resources/parts/core/newlogoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PCM_1" modelIndex="85416098" path="D:/fritzing_0.9.4.64/fritzing-parts/core/PCM_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega_Shield-v13" modelIndex="85416099" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Mega_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_2_2VariableCapacitorModuleID" modelIndex="85416100" path="D:/fritzing_0.9.4.64/fritzing-parts/core/trimmer_2_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-TEST-POINT-3X5" modelIndex="85416102" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-test-point-3x5.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-104" modelIndex="85416103" path="D:/fritzing_0.9.4.64/fritzing-parts/core/jlpcb-104.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER_2WAY-S" modelIndex="85416104" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper_2way-s.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LogoTextModuleID" modelIndex="85416106" path=":/resources/parts/core/logotext.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="newCopper0LogoImageModuleID" modelIndex="85416107" path=":/resources/parts/core/newcopper0logoimage.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-USB-A-S-NOSILK" modelIndex="85416108" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb-usb-a-s-nosilk.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-POWER_JACK-PTH_LOCK" modelIndex="85416110" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-power_jack-pth_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Button-v12" modelIndex="85416111" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LilyPad-Button-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-r3-shield" modelIndex="85416112" path="D:/fritzing_0.9.4.64/fritzing-parts/core/arduino-shield_r3_two_layer.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-F25-D" modelIndex="85416114" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-f25-d.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="423120090505" modelIndex="85416116" path="D:/fritzing_0.9.4.64/fritzing-parts/core/arduino-shield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--SMD-NS" modelIndex="85416118" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--smd-ns.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Light Sensor-v13" modelIndex="85416120" path="D:/fritzing_0.9.4.64/fritzing-parts/core/LilyPad-Light Sensor-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-F25-HP" modelIndex="85416121" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-f25-hp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-2X3_LOCK" modelIndex="85416123" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-2x3_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB-SMD" modelIndex="85416124" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-GS406SMD-MATING_SMD_***SPECIAL" modelIndex="85416126" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-rf-gs406smd-mating_smd____special.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DRV8825_breakout" modelIndex="85416127" path="D:/fritzing_0.9.4.64/fritzing-parts/core/DRV8825_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-SOLDERJUMPER-OLD-NC2" modelIndex="85416128" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-passives-solderjumper-old-nc2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberrypi-pcb-shape" modelIndex="85416130" path="D:/fritzing_0.9.4.64/fritzing-parts/core/raspberrypi-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-089" modelIndex="85416132" path="D:/fritzing_0.9.4.64/fritzing-parts/core/jlpcb-089.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="P1000K_laydown" modelIndex="85416133" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Rectifier Diode 10A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="audiojack_breakout-v11" modelIndex="85416134" path="D:/fritzing_0.9.4.64/fritzing-parts/core/audiojack_breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AUDIO-JACK-SPECIAL_POGO_PINS" modelIndex="85416135" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-audio-jack-special_pogo_pins.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="pcb-arduino-intel-galileo-half-pcb" modelIndex="85416137" path="D:/fritzing_0.9.4.64/fritzing-parts/core/arduino-intel-galileo-half-pcb-shape.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-PTH" modelIndex="85416139" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-F25-H" modelIndex="85416141" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-f25-h.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-F25-VP" modelIndex="85416143" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-f25-vp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkfunIMUBreakoutMPU-9250" modelIndex="85416145" path="D:/fritzing_0.9.4.64/fritzing-parts/core/Sparkfun_IMU_Breakout_MPU-9250.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-USB--B-S" modelIndex="85416146" path="D:/fritzing_0.9.4.64/fritzing-parts/core/sparkfun-connectors-usb--b-s.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="trimmer_3_4_pVariableCapacitorModuleID" modelIndex="85416148" path="D:/fritzing_0.9.4.64/fritzing-parts/core/trimmer_3_4_p.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ViaModuleID" modelIndex="85416150" path=":/resources/parts/core/via.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="usb_3.0_female_fix" modelIndex="85416151" path="D:/fritzing_0.9.4.64/fritzing-parts/core/usb_3.0_female_fix.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
