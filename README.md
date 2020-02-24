@@ -1,5 +1,7 @@
 # EEZYbotARM-Mk2
 
+#### Current State: DEVELOPMENT
+
 https://www.instructables.com/id/EEZYbotARM-Mk2-3D-Printed-Robot/
 
 This repository is a codebase with some fritzing files.
